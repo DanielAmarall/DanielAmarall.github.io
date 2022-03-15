@@ -18,7 +18,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("/img/detalhe.svg") no-repeat center;
+  background: url("../IMG/detalhe.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
@@ -107,7 +107,7 @@
 }
 
 .idiomas h3::before {
-  background: url("/img/idiomas.svg") no-repeat center center;
+  background: url("../IMG/idiomas.svg") no-repeat center center;
 }
 
 .formacao-extra li {
@@ -142,7 +142,7 @@
     display: block;
     width: 120px;
     height: 50px;
-    background: url("/img/detalhe.svg") no-repeat center;
+    background: url("../IMG/detalhe.svg") no-repeat center;
     position: absolute;
     bottom: -25px;
     left: 25px;
